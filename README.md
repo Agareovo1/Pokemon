@@ -76,3 +76,7 @@ interested in the world of Pokémon. Whether you are a Pokémon fan or just curi
 creatures, 
 
 this app will help you discover and learn more about your favorite Pokémon.
+
+
+# APP URL
+https://main.d2o2iz2s8h7zba.amplifyapp.com/
